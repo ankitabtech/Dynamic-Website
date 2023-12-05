@@ -1,0 +1,24 @@
+#header{
+    padding: 10px 0px;
+    background-color: blue;
+    
+}
+#header h2{
+    color:white;
+}
+#header button{
+    float:right
+
+}
+#mid  .bi-pencil{
+    font-size: 50px;
+}
+
+#footer{
+    padding: 10px 0;
+    background-color: blue;
+}
+#footer{
+    text-align: center;
+    color:white;
+}

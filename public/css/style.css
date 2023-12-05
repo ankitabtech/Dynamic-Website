@@ -1,0 +1,57 @@
+#header{
+background-color: blue;
+}
+#header img{
+    width: 200px;
+    box-shadow:10px 10px;
+}
+#header .bi-card-text{
+    color: white;
+}
+#header .navbar-toggler{
+    border: 2px solid white;
+    box-shadow: none;
+}
+#header ul li a{
+    color:white;
+    transition-property:color;
+    transition-duration: 4s;
+}
+#header ul li a{
+    color: white;
+}
+#banner img{
+    text-align: center;
+    width: 200px;
+    border-radius:100%;
+}
+#testi img{
+    width: 120px;
+border-radius: 50%;
+transition-property: width;
+transition-duration: 3s;
+
+}
+#testi img:hover{
+width: 150px;
+}
+#footer{
+    background-color: blue;
+}
+#footer img{
+    width: 100px; 
+}
+#footer h2{
+    color: white;
+}
+#footer p{
+    color: white;
+    font-size: 10px;
+}
+#footer span{
+    color:white;
+    font-size: 30px;
+    
+}
+
+
